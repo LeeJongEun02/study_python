@@ -1,4 +1,6 @@
 # 혼자 공부하는 머신러닝 + 딥러닝 공부 정리
+혼공머신 강의를 보고 공부한 내용을 정리하는 개인 공간입니다.
+
 ## 📖 강의
 https://www.youtube.com/watch?v=J6wehCO_c58&list=PLJN246lAkhQjoU0C4v8FgtbjOIXxSs_4Q&index=2
 
