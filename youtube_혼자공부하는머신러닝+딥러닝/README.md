@@ -14,7 +14,9 @@ https://www.youtube.com/watch?v=J6wehCO_c58&list=PLJN246lAkhQjoU0C4v8FgtbjOIXxSs
 - 5강 정교한 결과 도출을 위한 데이터 전처리 알아보기 [[공부링크](https://github.com/LeeJongEun02/study_python/blob/main/youtube_%ED%98%BC%EC%9E%90%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%2B%EB%94%A5%EB%9F%AC%EB%8B%9D/lecture05.ipynb)]
 [[강의링크](https://www.youtube.com/watch?v=kaCJ-knm8KU&list=PLJN246lAkhQjoU0C4v8FgtbjOIXxSs_4Q&index=5)]
 
-- 6강  ~~[[강의링크]()]~~
+- 6강 k-최근접 이웃 회귀 [[공부파일](https://github.com/LeeJongEun02/study_python/blob/main/youtube_%ED%98%BC%EC%9E%90%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%2B%EB%94%A5%EB%9F%AC%EB%8B%9D/lecture06.ipynb)] 
+[[강의링크](https://www.youtube.com/watch?v=0mrLRkgbjA0&list=PLJN246lAkhQjoU0C4v8FgtbjOIXxSs_4Q&index=6)]
+
 - 7강  ~~[[강의링크]()]~~
 - 8강  ~~[[강의링크]()]~~
 - 9강  ~~[[강의링크]()]~~
